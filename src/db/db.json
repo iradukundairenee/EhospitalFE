@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "email": "yvesyvad@gmail.com",
+      "password": "$2a$10$.oRnQmiKxXdaa7GIoYbPuO2cMi33CqywlrGxF360cerMNlRZUdXhW",
+      "role": "patient",
+      "name": "Habimana Ivad Yves",
+      "id": 1
+    },
+    {
+      "email": "sana@ikazepco.com",
+      "password": "$2a$10$JrhsiaaHTu7i19hkYl2LwubJ.VMxOPwaH3v5eh9qP6PI1ljS82Zka",
+      "role": "patient",
+      "name": "Habimana Ivad Yves",
+      "id": 2
+    },
+    {
+      "email": "yy@gmail.com",
+      "password": "$2a$10$t1.VovLgju4hraM3NzV3V.QyhQ4bfGAdOmg3U/Q/Gfk9.zJaXhA8S",
+      "role": "pharmacist",
+      "name": "Habimana Ivad Yves",
+      "id": 3
+    }
+  ],
+  "pharmacists": [
+    {
+      "role": "pharmacist",
+      "name": "Habimana Ivad Yves",
+      "email": "yy@gmail.com",
+      "id": 1
+    }
+  ],
+  "physicians": [],
+  "patients": [
+    {
+      "role": "patient",
+      "name": "Habimana Ivad Yves",
+      "email": "yvesyvad@gmail.com",
+      "id": 1
+    },
+    {
+      "role": "patient",
+      "name": "Habimana Ivad Yves",
+      "email": "sana@ikazepco.com",
+      "id": 2
+    }
+  ],
+  "consultations": []
+}
